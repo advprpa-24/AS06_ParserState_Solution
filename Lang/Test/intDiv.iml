@@ -1,0 +1,6 @@
+q := 0;
+r := m;
+while (n <= r) do
+  q := (q + 1);
+  r := (r - n)
+endwhile
